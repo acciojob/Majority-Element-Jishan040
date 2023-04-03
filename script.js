@@ -1,5 +1,3 @@
-//your code here
-//your code here
 function majorityElementChecker(arr)
     {
         let map = new Map();
